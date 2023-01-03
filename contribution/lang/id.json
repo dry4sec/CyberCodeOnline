@@ -5,7 +5,7 @@
  	 	 	"eng": "Map"
  	 	},
  	 	"inventory": {
- 	 	 	"trans": "Inventaris",
+ 	 	 	"trans": "Penyimpanan",
  	 	 	"eng": "Inventory"
  	 	},
  	 	"quest": {
@@ -24,21 +24,21 @@
  	"ui": {
  	 	"blackMarket": {
  	 	 	"selectItemButton": {
- 	 	 	 	"trans": "Print dan jual",
+ 	 	 	 	"trans": "Buat dan jual",
  	 	 	 	"eng": "Print And Sell"
  	 	 	}
  	 	},
  	 	"clan": {
  	 	 	"selectDepositAmount": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Silakan masukkan jumlah yang ingin kamu setorkan",
+ 	 	 	 	 	"trans": "Silakan masukkan jumlah yang ingin Anda setaorkan",
  	 	 	 	 	"eng": "Please enter amount you want to deposit"
  	 	 	 	},
  	 	 	 	"detail": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"amount"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "${amount} bitcoin akan disetorkan ke akun geng mu, tindakan ini tidak dapat dikembalikan",
+ 	 	 	 	 	"trans": "${amount} bitcoin akan disetorkan ke geng mu, tindakan ini tidak dapat dikembalikan",
  	 	 	 	 	"eng": "${amount} bitcoin will be deposit into your gang account, this cannot be reversed"
  	 	 	 	}
  	 	 	},
@@ -49,12 +49,12 @@
  	 	 	"editMotto": {
  	 	 	 	"modal": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "Silakan masukkan motto geng mu",
+ 	 	 	 	 	 	"trans": "Silakan masukkan moto geng mu",
  	 	 	 	 	 	"eng": "Please enter your gang motto"
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"button": {
- 	 	 	 	 	"trans": "Edit Motto Geng",
+ 	 	 	 	 	"trans": "Edit Moto Geng",
  	 	 	 	 	"eng": "Edit Gang Motto"
  	 	 	 	}
  	 	 	},
@@ -73,7 +73,7 @@
  	 	 	 	"eng": "Resource"
  	 	 	},
  	 	 	"funding": {
- 	 	 	 	"trans": "Pendanaan",
+ 	 	 	 	"trans": "Dana",
  	 	 	 	"eng": "funding"
  	 	 	},
  	 	 	"memberCount": {
@@ -160,7 +160,7 @@
  	 	 	 	 	 	"eng": "Decryption failed"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Klik pada urutan warna yang benar untuk membuka kunci",
+ 	 	 	 	 	 	"trans": "Klik warna yang benar untuk dapat membuka kunci",
  	 	 	 	 	 	"eng": "Click on the correct color sequence to unlock"
  	 	 	 	 	},
  	 	 	 	 	"button": {
@@ -174,7 +174,7 @@
  	 	},
  	 	"supportUkraine": {
  	 	 	"description": {
- 	 	 	 	"trans": "Orang-orang Ukraina, Rusia dan seluruh dunia menderita karena ambisi satu orang. \\n Exploitasi cinta, bukan perang.",
+ 	 	 	 	"trans": "Orang-orang Ukraina, Rusia dan seluruh makhluk di dunia menderita karena ambisi satu orang. \\n Exploitasi cinta, bukan perang.",
  	 	 	 	"eng": "People of Ukraine, Russia and the whole world are suffering because one man's ambition.\\n Make love exploit, not war."
  	 	 	}
  	 	},
@@ -192,7 +192,7 @@
  	 	 	 	"eng": "Put Bitcoins into bank"
  	 	 	},
  	 	 	"withdraw": {
- 	 	 	 	"trans": "Tarik",
+ 	 	 	 	"trans": "Ambil",
  	 	 	 	"eng": "Withdraw"
  	 	 	},
  	 	 	"withdrawDesc": {
@@ -208,7 +208,7 @@
  	 	 	 	"eng": "Put items into your vault"
  	 	 	},
  	 	 	"takeItemFromVault": {
- 	 	 	 	"trans": "Tarik barang",
+ 	 	 	 	"trans": "Ambil barang",
  	 	 	 	"eng": "Withdraw Item"
  	 	 	},
  	 	 	"takeItemFromVaultDesc": {
@@ -226,7 +226,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"upgradeToSlot"
  	 	 	 	],
- 	 	 	 	"trans": "Tingkatkan jumlah maksimum barang yang dapat Kamu simpan di lemari besi ke ${upgradeToSlot}",
+ 	 	 	 	"trans": "Tingkatkan jumlah maksimal barang yang dapat Kamu simpan di lemari besi dengan ${upgradeToSlot}",
  	 	 	 	"eng": "Increase the max amount of items you can store in vault to ${upgradeToSlot}"
  	 	 	},
  	 	 	"modal": {
